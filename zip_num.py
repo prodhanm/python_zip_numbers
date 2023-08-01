@@ -9,7 +9,7 @@ def zus_num(num_li_1,num_li_2):
                 num_li_2.append(num2)
         u_name = num_li_1 + num_li_2
         s_name = list(set(u_name))
-    return s_name[0:14]
+    return s_name
 
 def main():
     print(zus_num(num_li_1,num_li_2))
