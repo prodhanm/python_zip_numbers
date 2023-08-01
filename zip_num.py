@@ -1,5 +1,3 @@
-import sys
-
 num_li_1 = [1,3,5,7,8]
 num_li_2 = [2,4,6]
 
